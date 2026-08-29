@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "app.kageoto.watch",
+    "restype": "quick_app",
+    "name": "影律播放器",
+    "description": "影律播放器，是一款专门为小米 Vela 手表量身打造的独立音乐播放器。播放器支持主流音乐平台——QQ 音乐与网易云音乐的登录操作，还能轻松实现歌单同步，让你无需担心丢失喜爱的歌曲列表。在线搜索功能十分便捷，能快速精准定位你想听的歌曲，并实现即时播放。播放音乐时，支持歌词滚动功能。除此之外，它允许你将心仪的音乐进行离线下载，即便在没有网络的环境下，也能尽情享受美妙旋律。",
+    "preview": [
+      "media/25711.png",
+      "media/25704.png"
+    ],
+    "icon": "media/15981.png",
+    "cover": "media/25711.png",
+    "author": [
+      {
+        "name": "朝歌",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "v1.2.0",
+      "file_name": "downloads/影律_v1.2.0_方表.rpk"
+    },
+    "xmws3": {
+      "version": "v1.2.0",
+      "file_name": "downloads/影律_v1.2.0_圆表466.rpk"
+    },
+    "xmws4": {
+      "version": "v1.2.0",
+      "file_name": "downloads/影律_v1.2.0_圆表466.rpk"
+    }
+  },
+  "ext": {}
+}
